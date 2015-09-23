@@ -2,6 +2,6 @@
     <string name="app_name">IngressXimage</string>
     <string name="open">open images</string>
     <string name="close">close images</string>
-    <string name="message">please restart the game</string>
+    <string name="message">【toggle has updated】</string>
     <string name="app_message">help to save the network.control the image load from ingress.</string>
 </resources>
