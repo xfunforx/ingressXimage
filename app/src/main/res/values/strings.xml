@@ -1,7 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-    <string name="app_name">IngressXimage</string>
-    <string name="open">open images</string>
-    <string name="close">close images</string>
-    <string name="message">【toggle has updated】</string>
-    <string name="app_message">help to save the network.control the image load from ingress.</string>
+	<string name="app_name">IngressXimage</string>
+	<string name="open">open images</string>
+	<string name="close">close images</string>
+	<string name="message">【toggle has updated】</string>
+	<string name="app_message">Help to save the network. Control the image load from Ingress.</string>
+	<string name="credits_version">v%1$s, %2$s</string>
+	<string name="credits_developer">Developed by xfunforx and Cypher</string>
 </resources>
